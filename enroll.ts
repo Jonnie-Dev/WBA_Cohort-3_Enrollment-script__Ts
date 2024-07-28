@@ -35,6 +35,7 @@ const [enrollment_key, _bump] = PublicKey.findProgramAddressSync(
       })
       .signers([keypair])
       .rpc();
+
     console.log(`Success! Check out your TX here:
     https://explorer.solana.com/tx/${txhash}?cluster=devnet`);
   } catch (e) {
