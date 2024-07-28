@@ -13,7 +13,7 @@ To test this enrollment script, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/WBA_Cohort-3_Enrollment-script__Typescript.git
+   git clone https://github.com/Jonnie-Dev/WBA_Cohort-3_Enrollment-script__Typescript.git
    ```
 
 2. Install the dependencies:
